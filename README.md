@@ -1,3 +1,29 @@
+Exp.No : 06 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+Date : 24.05.2023
+<br>
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
